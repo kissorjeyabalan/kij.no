@@ -1,5 +1,8 @@
 @charset 'UTF-8';
 
 @import
-  'abstract/_variables',
-  'abstract/_functions';
+  'abstract/variables',
+  'abstract/functions';
+
+@import
+  'vendor/normalize';
