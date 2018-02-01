@@ -13,4 +13,19 @@ body {
     background: url('../img/terminal.png') left top no-repeat;
     background-size: 697px 563px;
     margin: 30px auto 0;
+    font-family: 'Droid Sans Mono';
+	font-size: 14px;
+}
+
+pre {
+    position: absolute;
+    left: 65px;
+    margin: 0;
+    color: #E3F1E4;
+	width: 569px;
+}
+
+#shell {
+    top: 60px;
+    line-height: 16px;
 }
