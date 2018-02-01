@@ -45,6 +45,7 @@ pre {
     color: rgb(117, 190, 232);
 }
 
+/** LINKS **/
 	
 a,a:visited {
 	text-decoration: none;
@@ -52,6 +53,9 @@ a,a:visited {
 	color: #E3F1E4;
 }
 
+#links {
+	line-height: 20px;
+}
 
 /** MEDIA QUERY **/
 @media (max-width: 696px) {
@@ -79,6 +83,7 @@ a,a:visited {
 	}
 }
 
+/** TYPED BLINKING CURSOR **/
 .typed-cursor {
 	font-weight: 100;
 	padding: 0 2px;
