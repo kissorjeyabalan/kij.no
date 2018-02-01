@@ -1,0 +1,6 @@
+/** BACKGROUND **/
+body {
+    margin: 0;
+    background: url('../img/bg.png') no-repeat center fixed;
+    background-size: cover;
+}
