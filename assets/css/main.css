@@ -4,3 +4,13 @@ body {
     background: url('../img/bg.png') no-repeat center fixed;
     background-size: cover;
 }
+
+/** TERMINAL **/
+#container {
+    width: 697px;
+    height: 563px;
+    position: relative;
+    background: url('../img/terminal.png') left top no-repeat;
+    background-size: 697px 563px;
+    margin: 30px auto 0;
+}
